@@ -120,7 +120,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://i.gifer.com/3AyY.gif"  />
+![](https://i.gifer.com/3AyY.gif)
 
 ###
 
